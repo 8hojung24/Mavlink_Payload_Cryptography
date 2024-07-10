@@ -10,5 +10,7 @@
 <img src=https://github.com/8hojung24/Mavlink_Payload_Cryptography/assets/67528774/0098c123-9b1b-4622-9cfc-af0952aa190b width="600">
 <br/>
 
-**참고**
+<br/>
+**총정리**
+<br/>
 https://www.notion.so/yuu-jeong/e29fdb04b43144b8a3855dd870760804
