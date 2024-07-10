@@ -10,7 +10,7 @@
 <br/>
 <img src=https://github.com/8hojung24/Mavlink_Payload_Cryptography/assets/67528774/0098c123-9b1b-4622-9cfc-af0952aa190b width='600'>
 
-## 가상드론 실습
+## 가상드론환경 시현 영상
 <a href="https://youtu.be/Hp8-U-EbAGs">
   <img src="http://img.youtube.com/vi/Hp8-U-EbAGs/0.jpg" width="600">
 </a>
